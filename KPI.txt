@@ -1,0 +1,13 @@
+1. Average Leads Generated per day.
+  Aerage lead generated per day-Associate ABC: 5.15,  Associate KLM: 8.64,   Associate XYZ: 7.3
+
+2. Average Time Spent per day.
+  Associate ABC= 220.03 Mins, Associate KLM=332.02, Associate XYZ=260.16
+
+3. Coversion Rate(Leads Generated per hour)
+  Associate ABC=112.67, Associate KLM=156.08, Associate XYZ=168.24
+
+4. Total Lead Generated over the given time period
+  Associate ABC=314, Associate KLM= 1071, Associate XYZ= 445, Overall Combined= 1830.
+
+Other KPIs in SQL sheet.
